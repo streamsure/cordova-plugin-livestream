@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-livestream",
+  "version": "0.0.0",
+  "description": "cordova-plugin-livestream",
+  "keywords": [
+    "cordova-plugin-livestream"
+  ],
+  "author": "streamsure <cordova@streamsure.com> (https://www.streamsure.com)",
+  "homepage": "https://www.streamsure.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/streamsure/cordova-plugin-livestream.git"
+  },
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/streamsure/cordova-plugin-livestream/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "BSD"
+}
